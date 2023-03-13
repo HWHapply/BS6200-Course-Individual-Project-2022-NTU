@@ -2,7 +2,7 @@
 
 ## Abstract:
 HF is a chronic disease that worsens over time, causing
-progressive remodeling of the heart. it is  considered complex clinical syndrome that causes a
+progressive remodeling of the heart. Tt is a complex clinical syndrome that causes a
 patient's heart to not pump enough blood (ventricular insufficiency)
 to meet the oxygen needs of vital organs and tissues in the body.
 The result is the accumulation of fluid in the lungs and/or various
