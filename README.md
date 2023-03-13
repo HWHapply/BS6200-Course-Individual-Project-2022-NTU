@@ -1,4 +1,4 @@
-# The hospital mortality prediction for ICUadmitted HF (Heart Failure) patients using MIMIC III dataset
+# The hospital mortality prediction for ICU admitted HF (Heart Failure) patients using MIMIC III dataset
 
 ## Abstract:
 MIMIC-III (Medical Information Mart for Intensive Care)
