@@ -1,6 +1,13 @@
 # The hospital mortality prediction for ICU admitted HF (Heart Failure) patients using MIMIC III dataset
 
 ## Abstract:
+HF is a chronic disease that worsens over time, causing
+progressive remodeling of the heart. it is  considered complex clinical syndrome that causes a
+patient's heart to not pump enough blood (ventricular insufficiency)
+to meet the oxygen needs of vital organs and tissues in the body.
+The result is the accumulation of fluid in the lungs and/or various
+parts of the body, resulting in congestion and edema. 
+
 MIMIC-III (Medical Information Mart for Intensive Care)
 comprises information relating to patients admitted to Intensive
 care units at a large tertiary care hospital. It covers 38,597 distinct
